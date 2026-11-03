@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekram Esmael</h1>
-<h3 align="center">I'm currently pursuing a Bachelor's degree in Software Engineering at Bahir Dar University in Ethiopia. I am a skilled web designer and front-end developer, specializing in creating visually appealing and highly functional websites. My expertise includes HTML, CSS, JavaScript, and responsive design principles, ensuring seamless user experiences across devices.</h3>
+<h3 align="center">I'm currently a 4th-year Software Engineering at Bahir Dar University in Ethiopia. I am a skilled web designer and front-end developer, specializing in creating visually appealing and highly functional websites. My expertise includes HTML, CSS, JavaScript, and responsive design principles, ensuring seamless user experiences across devices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramesmael12&label=Profile%20views&color=0e75b6&style=flat" alt="ekramesmael12" /> </p>
 
